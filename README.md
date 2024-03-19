@@ -229,4 +229,4 @@ number of its employees who are making more than Rs.6,00,000.
 
 ## Contributor
 - [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu)
-- [Sujal N Murthy](https:// github.com/SujalNMurthy) 
+- [Sujal N Murthy](https://github.com/SujalNMurthy)
